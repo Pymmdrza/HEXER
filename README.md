@@ -2,6 +2,16 @@
 ---
 # HEXER
 ## Hexer For Create hexCode and hash
+
+for create hah or hex code running `hexer.py` with this common:
+
+```
+python hexer.py
+
+# after running write 1 character on example i use 'c' next section typr number needed . i write 64 on example
+
+```
+
 ---
 ![](https://raw.githubusercontent.com/Pymmdrza/HEXER/main/hexCreator.gif)
 ---
